@@ -1,5 +1,5 @@
 # keyboard-circuits
-Archive for arduino/pico-based keyboards
+Archive for arduino/pico-based keyboard pcbs
 
 **WARNING!**
 
